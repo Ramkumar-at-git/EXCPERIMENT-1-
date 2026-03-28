@@ -5,6 +5,8 @@
 ## Aim:
 To become familiar with microwave components and instruments available in the laboratory.
 
+
+
 ## Apparatus Used:
 Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted section, Frequency/wave meter, RF Generator, Vector Network Analyzer.
 
@@ -129,6 +131,8 @@ The crystal detector (Detector mount) can be used for the detection of microwave
 <img width="267" height="267" alt="image" src="https://github.com/user-attachments/assets/e31dbdd8-8938-49ae-8870-e9f96902b5cc" />
 
  
+
+
 
 ### 8.	VSWR Meter
 The SWR meter or VSWR (voltage standing wave ratio) meter measures the standing wave ratio in a
